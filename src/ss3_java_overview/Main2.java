@@ -1,3 +1,5 @@
+package ss3_java_overview;
+
 public class Main2 {
     // main enter
     public static void main(String[] args) {
